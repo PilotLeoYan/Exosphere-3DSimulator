@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Exosphere-3DSimulator"
+version = "0.1.0"
+description = "A particle simulator of the Earth's exosphere using PyVista."
+readme = "README.md"
+requires-python = "==3.13.11"
+license = {text = "MIT"}
+authors = [
+  {name = "PilotLeoYan", email = "leofabyano@gmail.com}
+]
+dependencies = [
+    "matplotlib==3.10.8"
+    "numpy==2.4.0",
+    "pyvista==0.46.4",
+    "vtk==9.5.2"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/PilotLeoYan/Exosphere-3DSimulator"
