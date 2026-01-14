@@ -1,6 +1,5 @@
 ![Python Version](https://img.shields.io/badge/python-3.14.2-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Latest commit](https://img.shields.io/github/last-commit/PilotLeoYan/Exosphere-3DSimulator/)
 
 # Exosphere-3D Simulator 🌎️
 
@@ -62,4 +61,12 @@ Intensity_v[i,0] = intensity[0]
 python3 main.py
 ```
 
+<p align="center">
+  <img src="images/Figure_1.png" alt="Figure 1" width="300"/>
+</p>
+Figure 1.
 
+<p align="center">
+  <img src="images/Figure_2.png" alt="Figure 2" width="300"/>
+</p>
+Figure 2.
